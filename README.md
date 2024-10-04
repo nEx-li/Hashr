@@ -10,6 +10,10 @@ Hashr is a simple Python script that allows users to compare the checksum of a f
 - Easy-to-use graphical interface (Tkinter).
 - Cross-platform support: Works on Linux, macOS, and Windows.
 
+## Screenshot
+
+![Hashr Screenshot](images/Hashr.png)
+
 ## Requirements
 
 - Python 3.x
