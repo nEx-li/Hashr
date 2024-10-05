@@ -12,7 +12,8 @@ Hashr is a simple Python script that allows users to compare the checksum of a f
 
 ## Screenshot
 
-![Hashr Screenshot](images/Hashr.png)
+![Hashr macOS Screenshot](images/Hashr_macOS.png)
+![Hashr Linux Screenshot](images/Hashr_Linux.png)
 
 ## Requirements
 
